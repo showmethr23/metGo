@@ -6,7 +6,7 @@
 <br>
 
 ## About This Project
-Tutor
+Learning never exhausts the mind. A good teacher can ignite the imagination and instill a love of learning. This web application is the best fit to find a tutor online. Find a tutor upon your preference subject by quick search. 
 
 <br>
 
