@@ -1,48 +1,53 @@
-# metGo
-<img width="1534" alt="Screen Shot 2021-11-17 at 11 08 29 AM" src="https://user-images.githubusercontent.com/62336688/142237216-e5d71196-8815-4d09-bc57-20cfeb0c6c0f.png">
+
+<img width="1495" height="400" src="https://i.ibb.co/syNTwc2/1.jpg">
+
+
+## About The Project
+**"Tell me and I forget, teach me and I may remember, involve me and I learn" by Benjamin Franlkin**  
+Involve yourself to learn whaever you want. Spending time to find a great tutor is hard. Just prepare what course you want to take and bring your enthusiasm in learning. Pick the best fit tutor with your preferences @ MetGo. 
+
+
+<br/>
+<br/>
+
+### Tech Stacks
+- Backend
+  - [Django](https://www.djangoproject.com)
+  - [PyJWT](https://pyjwt.readthedocs.io/en/stable/)
+  - [Bycrypt](https://pypi.org/project/bcrypt/)
+
+<br/>
+<br/>
+
+## Getting Started
+### Prerequisites
+- [Git](https://git-scm.com)  
+- [Python 3.8 / pip](https://www.python.org/downloads/release/python-386/) 
 
 
 
-<br>
+  
+### Installation
+**Backend**  
+1. Clone the repository 
+```shell
+git clone https://github.com/showmethr23/metGo.git
+cd metGo
+```
+2. Install packages
+```shell
+pip install -r requirements.txt
+```
+3. Start your local server
+```shell
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+```
 
-## About This Project
-Learning never exhausts the mind. A good teacher can ignite the imagination and instill a love of learning. This web application is the best fit to find a tutor online. Find a tutor upon your preference subject by quick search. 
 
-<br>
+<br/>
+<br/>
 
-## Benefits
-- Users experience finding tutors for the best fit
-- Tutor recommendations based on most upvoted or reviews
-- Users can sign-in with the Kakao accounts
-- User can register as a tutor
-
-<br>
-
-## Tech Stacks
-*Back-end*
-- Django
-- PyJWT
-- Bycrypt
-
-<br>
-
-*Front-end*
-- React.js
-- SASS
-
-<br>
-
-## Prerequisits
-- Git
-- Python 3.8 / Pip
-- NPM
-
-<br>
-
-## Team Information
-- Junyeong Choi
-- Sinjae Lee
-- Taeyoung Kim
-- Euiyeong Lee
-- Jungjoon Sung
-- Yoonkyung Lee
+## Contributor
+- Junyeong Choi - showmethr23@gmail.com
