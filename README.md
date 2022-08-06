@@ -25,8 +25,8 @@ Involve yourself to learn whaever you want. Spending time to find a great tutor 
 - [Python 3.8 / pip](https://www.python.org/downloads/release/python-386/) 
 
 
+<br/>
 
-  
 ### Installation
 **Backend**  
 1. Clone the repository 
