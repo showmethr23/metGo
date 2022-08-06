@@ -4,7 +4,7 @@
 
 ## About The Project
 **"Tell me and I forget, teach me and I may remember, involve me and I learn" by Benjamin Franlkin**  
-Involve yourself to learn whaever you want. Spending time to find a great tutor is hard. Just prepare what course you want to take and bring your enthusiasm in learning. Pick the best fit tutor with your preferences @ MetGo. 
+Involve yourself to learn whatever you want. Spending time to find a great tutor is hard. Just prepare what course you want to take and bring your enthusiasm in learning. Pick the best fit tutor with your preferences @ MetGo. 
 
 
 <br/>
